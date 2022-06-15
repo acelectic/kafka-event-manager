@@ -1,6 +1,6 @@
 {
-    "name": "@types/kafka-event-manager",
-    "version": "0.0.1",
+    "name": "kafka-event-manager-types",
+    "version": "0.0.2",
     "description": "TypeScript definitions for kafka-event-manager",
     "homepage": "https://github.com/acelectic/kafka-event-manager",
     "license": "MIT",
